@@ -76,5 +76,6 @@ Licença
 MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 Contato
-Autor: Seu Nome
-Email: seu.email@exemplo.com
+Autor: José Davi Silveira Gomes
+Email: josedavisilveiragomes@gmail.com
+
