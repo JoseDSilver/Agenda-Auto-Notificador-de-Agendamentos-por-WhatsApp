@@ -22,16 +22,6 @@ Exemplo mínimo de requirements.txt:
 selenium>=4.0.0
 webdriver-manager>=4.0.0
 
-Instalação
-git clone https://github.com/<seu-usuario>/agenda-auto.git
-cd agenda-auto
-python -m venv .venv
-
-Windows
-.venv\Scripts\activate
-
-pip install -r requirements.txt
-
 Configuração
 **NUNCA** versionar credenciais no repositório. Use variáveis de ambiente ou um arquivo `.env` (adicione `.env` ao `.gitignore`). Crie também um arquivo `.env.example` sem valores sensíveis para referência.
 
@@ -78,4 +68,5 @@ MIT. Consulte o arquivo LICENSE para mais detalhes.
 Contato
 Autor: José Davi Silveira Gomes
 Email: josedavisilveiragomes@gmail.com
+
 
